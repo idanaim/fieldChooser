@@ -1,0 +1,14 @@
+{
+  "name": "fieldChooser",
+  "version": "1.0.6",
+  "authors": [
+    " Matthew Eagar "
+  ],
+  "description": "drag and drop",
+  "main": "fieldChooser.js",
+  "keywords": [
+    "jqueryqDargAndDrop"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/idanaim/fieldChooser"
+}
